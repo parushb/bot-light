@@ -1,0 +1,71 @@
+{
+  "profile": {
+    "enabled": true,
+    "aliases": [
+      "p"
+    ],
+    "color": "#0eb9e8",
+    "description": "View your profile",
+    "usage": "/profile, /p",
+    "image": {
+      "description": "Get the avatar of a user"
+    }
+  },
+  "meme": {
+    "enabled": true,
+    "description": "Search for memes on tenor",
+    "terms": [
+      "Error",
+      "Excited",
+      "Funny",
+      "Happy",
+      "Surprised",
+      "Tired",
+      "omg"
+    ]
+  },
+  "ban": {
+    "enabled": true,
+    "description": "Ban a user from the server"
+  },
+
+  "unban": {
+    "enabled": true,
+    "description": "Unban a user from the server",
+    "aliases": [
+      "ub"
+    ]
+  },
+
+  "mute": {
+    "enabled": true,
+    "aliases": [
+      "m"
+    ],
+    "description": "Mute a user from the server"
+  },
+  "unmute": {
+    "enabled": true,
+    "aliases": [
+      "um"
+    ],
+    "description": "Unmute a user from the server"
+  },
+  "kick": {
+    "enabled": true,
+    "aliases": [
+      "k"
+    ],
+    "description": "Kick a user from the server"
+  },
+  "say": {
+    "enabled": true,
+    "aliases": [
+      "s"
+    ],
+    "description": "Make the bot say something"
+  },
+  "translate": {
+    "enabled": true
+  }
+}

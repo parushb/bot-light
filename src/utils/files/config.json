@@ -1,0 +1,13 @@
+{
+  "guild_id": 983057539212120065,
+  "prefix": "!",
+  "discord": {
+    "token": "OTc1NDMzODM0OTI3NjMyNDM1.GEzeSY.K_Jq3jHjKDnMp5ithKI7-VK9XxNzLNb-IcVvHM",
+    "client_id": 975433834927632435
+  },
+  "enabled_commands": ["profile","ban","unban","mute","unmute","translate","meme","prefix","kick","clear"],
+  "tenor": {
+    "key": "AP5TOKEB3DK8",
+    "limit": "2"
+  }
+}
